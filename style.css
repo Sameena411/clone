@@ -1,0 +1,152 @@
+.box{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic{
+    width: 300px;
+}
+.next{
+    color: rgb(21, 112, 216);
+}
+.next:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box1{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic1{
+    width: 300px;
+}
+.next1{
+    color: rgb(21, 112, 216);
+}
+.next1:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box2{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic2{
+    width: 300px;
+}
+.next2{
+    color: rgb(21, 112, 216);
+}
+.next2:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box3{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic3{
+    width: 300px;
+}
+.next3{
+    color: rgb(21, 112, 216);
+}
+.next3:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box4{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic4{
+    width: 300px;
+}
+.next4{
+    color: rgb(21, 112, 216);
+}
+.next4:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box5{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic5{
+    width: 300px;
+}
+.next5{
+    color: rgb(21, 112, 216);
+}
+.next5:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.box6{
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.pic6{
+    width: 300px;
+}
+.next6{
+    color: rgb(21, 112, 216);
+}
+.next6:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+/* .text box{
+    background-color: orange;
+    color: white;
+} */
+/* .box7{
+    width: 30;
+    height: 40;
+    background-color: whitesmoke;
+}
+.textbox{
+    margin: 25px;
+} */
